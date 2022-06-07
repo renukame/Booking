@@ -1,0 +1,23 @@
+<resources>
+    <!--
+    TODO: Before you run your application, you need a Google Maps API key.
+
+    To get one, follow this link, follow the directions and press "Create" at the end:
+
+
+    You can also add your credentials to an existing key, using these values:
+
+    Package name:
+    com.teasers.bookingapp.presentation.map
+
+    SHA-1 certificate fingerprint:
+    2A:CF:13:25:52:01:FA:4D:64:55:82:75:B0:E2:27:26:F0:43:59:90
+
+    Alternatively, follow the directions here:
+    https://developers.google.com/maps/documentation/android/start#get-key
+
+    Once you have your key (it starts with "AIza"), replace the "google_maps_key"
+    string in this file.
+    -->
+    <string name="google_maps_key" templateMergeStrategy="preserve" translatable="false">AIzaSyBtpdNaRhSeb-qgcX9zhSr9GD1jFfbZpIc</string>
+</resources>
